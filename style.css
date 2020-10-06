@@ -154,8 +154,8 @@ ul li a:hover{
 	margin-right: 30px;
 	margin-top: 20px;
 }
-@media screen and (max-width:800px) {
-		  .container_left .container_right {
+@media screen and (max-width:992px) {
+		  .container{
 		    width: 100%;
 		  }
-		}
+}
